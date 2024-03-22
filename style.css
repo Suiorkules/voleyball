@@ -36,3 +36,11 @@ body{
     font-size: 74px;
     color: burlywood;
 }
+.item{
+    width: 150px;
+    height: 200px;
+    background-color: #4b631c;
+    color: #71891b;
+    border-radius: 10px;
+    border: 3px solid red;
+}
