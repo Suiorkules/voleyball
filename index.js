@@ -1,5 +1,5 @@
 let item = document.querySelector(".item")
 
-item.innerHTML = hello
+item.innerHTML = hello+"world"
 
 let hello = "Bishkek"
